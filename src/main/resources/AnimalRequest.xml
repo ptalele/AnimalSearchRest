@@ -1,0 +1,6 @@
+<!-- This is sample request -->
+<animalrequest xmlns="com.cognizant.animalearchapp.rest">
+	<name>tiger</name>
+	<name>lion</name>
+	<name>monkey</name>
+</animalrequest>
